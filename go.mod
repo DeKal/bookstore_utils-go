@@ -2,4 +2,7 @@ module github.com/DeKal/bookstore_utils-go
 
 go 1.13
 
-require go.uber.org/zap v1.15.0
+require (
+	github.com/prometheus/common v0.9.1 // indirect
+	go.uber.org/zap v1.15.0
+)
