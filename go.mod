@@ -4,5 +4,5 @@ go 1.13
 
 require (
 	github.com/prometheus/common v0.9.1 // indirect
-	go.uber.org/zap v1.15.0
+	go.uber.org/zap v1.17.0
 )
